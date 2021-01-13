@@ -1,5 +1,5 @@
 =========2021===========
-Nombre: Andrea <---MASTER: el conflicto va a crearse aquí
+Nombre: Andrea <---MASTER: el conflicto va a crearse aquí!
 Favorite color: yellow
 ========================
 
