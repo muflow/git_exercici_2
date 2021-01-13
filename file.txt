@@ -1,6 +1,6 @@
 =========2021===========
 Nombre: Andrea
-Favorite color: yellow
+Favorite color: yellow <--- BRANCH1: creando conflicto aquí
 ========================
 
 1) Esta es una modifica en la branch1
