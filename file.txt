@@ -4,3 +4,5 @@ Favorite color: yellow
 ========================
 
 2) Esta es otra modifica del file desde el master
+
+3) Esta es la modifica en master para intentar crear el conflicto
